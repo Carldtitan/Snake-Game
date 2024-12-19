@@ -3,7 +3,7 @@
 A classic Snake game with multiple exciting game modes! Play directly in your browser.
 
 ## Play Online
-[Click here to play the game](https://YOUR_USERNAME.github.io/snake-game)
+[Click here to play the game](https://carldtitan.github.io/snake-game)
 
 ## Game Modes
 - 🏢 Prison Yard: Classic snake with walls

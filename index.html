@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Snake Game</title>
+    <style>
+        canvas {
+            border: 1px solid #fff;
+            background: #000;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: #333;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="gameCanvas" width="800" height="600"></canvas>
+    <script>
+        window.onerror = function(msg, url, line) {
+            alert(`Error: ${msg}\nAt: ${url}:${line}`);
+        };
+    </script>
+    <script src="game.js"></script>
+</body>
+</html> 

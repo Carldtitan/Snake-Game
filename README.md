@@ -30,4 +30,4 @@ A classic Snake game with multiple exciting game modes! Play directly in your br
 2. Double-click `index.html` to play
 
 ## Credits
-Created by [Your Name] 
+Created by Carldtitan
